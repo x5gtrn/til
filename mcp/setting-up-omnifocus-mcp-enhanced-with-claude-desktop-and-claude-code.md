@@ -1,9 +1,13 @@
 ---
-title: "Setting Up omnifocus-mcp-enhanced with Claude Desktop and Claude Code"
+title: Setting Up omnifocus-mcp-enhanced with Claude Desktop and Claude Code
 layout: post
 date: 2026-04-07T09:06+09:00
-category: html
-tags: [claude, mcp, omnifocus, self-managenent]
+category: mcp
+tags:
+  - claude
+  - mcp
+  - omnifocus
+  - self-managenent
 in: TIL
 ---
 
